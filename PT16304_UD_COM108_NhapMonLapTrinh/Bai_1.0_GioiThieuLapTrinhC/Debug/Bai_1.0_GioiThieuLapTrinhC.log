@@ -1,2 +1,4 @@
 ﻿  Main.c
-  Bai_1.0_GioiThieuLapTrinhC.vcxproj -> D:\OneDrive - FPT EDUCATION\8. Demo\Demo C\PT16304-UD--COM108\PT16304_UD_COM108_NhapMonLapTrinh\Debug\Bai_1.0_GioiThieuLapTrinhC.exe
+  Main2.c
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'D:\OneDrive - FPT EDUCATION\8. Demo\Demo C\PT16304-UD--COM108\PT16304_UD_COM108_NhapMonLapTrinh\Debug\Bai_1.0_GioiThieuLapTrinhC.exe'
