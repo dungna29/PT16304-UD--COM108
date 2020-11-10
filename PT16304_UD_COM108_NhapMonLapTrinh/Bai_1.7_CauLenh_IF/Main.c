@@ -11,7 +11,7 @@ int main()
 	// 			//nếu biểu thức của IF true thì code sẽ chạy vào đây và thực hiện 1 hành động nào đó
 	// } đóng lệnh
 	//------------
-	// Ví dụ:
+	// Ví dụ:	
 	float diemC = 4.9;
 	if (diemC >= 5)
 	{
@@ -39,3 +39,4 @@ int main()
 	 */
 
 }
+
