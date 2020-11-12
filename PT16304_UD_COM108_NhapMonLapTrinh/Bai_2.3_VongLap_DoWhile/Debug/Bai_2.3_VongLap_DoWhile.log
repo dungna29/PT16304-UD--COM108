@@ -1,0 +1,6 @@
+﻿  Main.c
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C\PT16304-UD--COM108\PT16304_UD_COM108_NhapMonLapTrinh\Bai_2.3_VongLap_DoWhile\Main.c(24,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C\PT16304-UD--COM108\PT16304_UD_COM108_NhapMonLapTrinh\Bai_2.3_VongLap_DoWhile\Main.c(24,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C\PT16304-UD--COM108\PT16304_UD_COM108_NhapMonLapTrinh\Bai_2.3_VongLap_DoWhile\Main.c(24,11): message : the missing variadic argument 2 is required by format string '%c'
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C\PT16304-UD--COM108\PT16304_UD_COM108_NhapMonLapTrinh\Bai_2.3_VongLap_DoWhile\Main.c(24,11): message : this argument is used as a buffer size
+  Bai_2.3_VongLap_DoWhile.vcxproj -> D:\OneDrive - FPT EDUCATION\8. Demo\Demo C\PT16304-UD--COM108\PT16304_UD_COM108_NhapMonLapTrinh\Debug\Bai_2.3_VongLap_DoWhile.exe

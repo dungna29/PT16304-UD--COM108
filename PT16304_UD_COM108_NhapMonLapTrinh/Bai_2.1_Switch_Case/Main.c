@@ -65,4 +65,10 @@ int main()
 	 * 4. Kiểm tra số nguyên âm và nguyên dương.
 	 * 5. Kiểm tra điểm thi để biết học lại hay không?
 	 */
+	printf("--------- Bai Tong Hop POLY ---------");
+	printf("--------- 1. Xep loai       ---------");
+	printf("--------- 2. Cong 4 so      ---------");
+	printf("--------- 3. KT chan le     ---------");
+	printf("--------- 4. Nguyen - +     ---------");
+	printf("--------- 5. Check diem thi ---------");
 }
