@@ -40,6 +40,6 @@ int main()
 		- Từ 5 đến 6 là Ong Chưa Chăm
 		- Dưới 5 là Ong Lười
 
-	Nếu muốn lấy điểm 10 sử dụng hàm trả về ít nhất 2 hàm.
+	Nếu muốn lấy điểm 10 sử dụng hàm trả về ít nhất 1 hàm.
 	 */
 }
