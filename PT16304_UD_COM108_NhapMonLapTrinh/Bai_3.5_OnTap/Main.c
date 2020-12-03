@@ -5,6 +5,7 @@
 /// <returns></returns>
 int main()
 {
+	int a = 999;
 	/*
 	 * Bài 1: Viết 1 chương trình nhập vào thông tin của sinh viên
 	 * - Tên, Năm Sinh, Số điện thoại, Tên Trường
